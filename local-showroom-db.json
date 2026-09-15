@@ -1,0 +1,136 @@
+{
+  "products": [
+    {
+      "_id": "prod-1",
+      "name": "Raw Linen Weave Wallpaper",
+      "category": "Bedroom Wallpaper",
+      "description": "Textured fabric-effect wall covering designed for serene bedroom suites. Provides acoustic warmth and a tactile surface finish.",
+      "images": [
+        "https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "specifications": "Woven non-woven substrate, matte low-reflective coating",
+      "availability": "Available on Showroom Order",
+      "createdAt": "2026-09-14T20:40:24.695Z",
+      "updatedAt": "2026-09-14T20:40:24.695Z"
+    },
+    {
+      "_id": "prod-2",
+      "name": "Fluted Architectural Wall Panels",
+      "category": "Decorative Wallpaper",
+      "description": "Vertical linear fluted panels offering architectural rhythm and dimension to master bedroom feature walls.",
+      "images": [
+        "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "specifications": "Precision engineered lightweight surface panels",
+      "availability": "Available on Order",
+      "createdAt": "2026-09-14T20:40:24.695Z",
+      "updatedAt": "2026-09-14T20:40:24.695Z"
+    },
+    {
+      "_id": "prod-3",
+      "name": "Minimalist Botanical Monolith",
+      "category": "Patterned Wallpaper",
+      "description": "Muted tone-on-tone botanical silhouette wallpaper with subtle organic curves suited for residential accent walls.",
+      "images": [
+        "https://images.unsplash.com/photo-1513694203232-719a280e022f?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "specifications": "Washable surface, breathable substrate",
+      "availability": "Showroom Catalog Sample",
+      "createdAt": "2026-09-14T20:40:24.695Z",
+      "updatedAt": "2026-09-14T20:40:24.695Z"
+    },
+    {
+      "_id": "prod-4",
+      "name": "Venetian Plaster Effect Surface",
+      "category": "Modern Wallpaper",
+      "description": "Soft-toned polished mineral textured wallpaper emulating traditional artisanal lime plaster finishes.",
+      "images": [
+        "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "specifications": "Heavyweight vinyl on fleece backing",
+      "availability": "Available on Order",
+      "createdAt": "2026-09-14T20:40:24.695Z",
+      "updatedAt": "2026-09-14T20:40:24.695Z"
+    }
+  ],
+  "collections": [
+    {
+      "_id": "col-1",
+      "name": "Bedroom Serenity Series",
+      "category": "Bedroom Wallpaper",
+      "description": "Quiet textural wall coverings crafted specifically for bedroom sanctuaries.",
+      "image": "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?auto=format&fit=crop&w=1200&q=80",
+      "createdAt": "2026-09-14T20:40:24.695Z",
+      "updatedAt": "2026-09-14T20:40:24.695Z"
+    },
+    {
+      "_id": "col-2",
+      "name": "Architectural Feature Panels",
+      "category": "Wallpaper Panels",
+      "description": "Modular geometric and slatted relief wall systems for focal installations.",
+      "image": "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=1200&q=80",
+      "createdAt": "2026-09-14T20:40:24.695Z",
+      "updatedAt": "2026-09-14T20:40:24.695Z"
+    },
+    {
+      "_id": "col-3",
+      "name": "Tactile Mineral Textures",
+      "category": "Modern Wallpaper",
+      "description": "Subtle plaster, limestone, and stone-inspired surfaces for clean interior walls.",
+      "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+      "createdAt": "2026-09-14T20:40:24.695Z",
+      "updatedAt": "2026-09-14T20:40:24.695Z"
+    }
+  ],
+  "gallery": [
+    {
+      "_id": "gal-1",
+      "title": "Master Bedroom Wall Composition",
+      "category": "Bedroom Walls",
+      "description": "Textural wallpaper application behind headboard with soft ambient perimeter illumination.",
+      "image": "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?auto=format&fit=crop&w=1200&q=80",
+      "createdAt": "2026-09-14T20:40:24.695Z"
+    },
+    {
+      "_id": "gal-2",
+      "title": "Linear Wall Paneling Concept",
+      "category": "Decorative Wall Panels",
+      "description": "Full-height vertical fluted accent wall bringing structural definition to residential spaces.",
+      "image": "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=1200&q=80",
+      "createdAt": "2026-09-14T20:40:24.695Z"
+    },
+    {
+      "_id": "gal-3",
+      "title": "Tactile Mineral Surface Detail",
+      "category": "Textures & Surfaces",
+      "description": "Close-up macro study of fine plaster grain wallpaper and light reflection.",
+      "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+      "createdAt": "2026-09-14T20:40:24.695Z"
+    },
+    {
+      "_id": "gal-4",
+      "title": "Neutral Living Room Feature Wall",
+      "category": "Feature Walls",
+      "description": "Clean stone-effect wallpaper paneling establishing warm minimalist zoning.",
+      "image": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
+      "createdAt": "2026-09-14T20:40:24.695Z"
+    }
+  ],
+  "inquiries": [
+    {
+      "name": "Ahmad Khan",
+      "phone": "+92 300 1234567",
+      "email": "",
+      "inquiryType": "General Inquiry",
+      "productId": "",
+      "productName": "",
+      "subject": "Bedroom project inquiry",
+      "message": "Looking to review wallpaper samples for master bedroom.",
+      "isRead": false,
+      "_id": "inq_1789418430596_18t4pe",
+      "createdAt": "2026-09-14T20:40:30.596Z"
+    }
+  ]
+}
